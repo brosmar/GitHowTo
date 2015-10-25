@@ -1,0 +1,27 @@
+https://www.evernote.com/shard/s342/nl/61054681/47816bbf-0b3d-4623-8405-ad10390a4acb/?csrfBusterToken=U%3D3a39ed9%3AP%3D%2F%3AE%3D150a1245767%3AS%3D2fbf835d00bd7a96c9d2be52b5fe9326
+
+
+https://github.com/ixtrader/GitHowTo.git	
+
+Quick setup  if you’ve done this kind of thing before
+or
+
+We recommend every repository include a README, LICENSE, and .gitignore.
+or create a new repository on the command line
+
+echo # GitHowTo >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ixtrader/GitHowTo.git
+git push -u origin master
+
+or push an existing repository from the command line
+
+git remote add origin https://github.com/ixtrader/GitHowTo.git
+git push -u origin master
+
+or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
